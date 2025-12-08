@@ -6,8 +6,9 @@
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue?style=for-the-badge&logo=Espressif)](https://www.espressif.com)
 
 > **Version:** 1.0 —
->  Next Version 1.7 coming soon  
+>  Next Version 2.5 coming soon  
 >  Version 0.6 link-LegedsDaD/New-BLE-Library-for-ESP32-Mouse-and-Keyboard-and-Combo: A BLE Library for ESP32 https://share.google/0tsyl7t2ioUK00wjs
+>  Version 1.7link- https://github.com/LegedsDaD/New-BLE-Library-for-ESP32-Mouse-and-Keyboard-and-Combo-Version--1.7-
 ## About
 
 This is a BLE (Bluetooth Low Energy) library for ESP32 that enables emulating a **mouse**, **keyboard**, or **combo HID device** — useful for projects requiring wireless HID input via ESP32.
