@@ -7,7 +7,7 @@
 
 > **Version:** 1.0 —
 >  Next Version 2.5 coming soon  
->  Version 0.6 link-LegedsDaD/New-BLE-Library-for-ESP32-Mouse-and-Keyboard-and-Combo: A BLE Library for ESP32 https://share.google/0tsyl7t2ioUK00wjs
+>  Version 0.06 link-LegedsDaD/New-BLE-Library-for-ESP32-Mouse-and-Keyboard-and-Combo: A BLE Library for ESP32 https://share.google/0tsyl7t2ioUK00wjs
 >  Version 1.7link- https://github.com/LegedsDaD/New-BLE-Library-for-ESP32-Mouse-and-Keyboard-and-Combo-Version--1.7-
 ## About
 
